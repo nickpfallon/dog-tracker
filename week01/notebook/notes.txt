@@ -1,0 +1,100 @@
+    1  $HOME
+    2  ~/.zshrc
+    3  ls
+    4  cd ~/.zshrc
+    5  open ~/.zshrc
+    6  exit
+    7  cd galvanaize/assessments
+    8  cd galvanize
+    9  cd assessments
+   10  pwd
+   11  cd ~/Documents
+   12  cd galvanize
+   13  cd assessments
+   14  ls
+   15  cd cli-assessment-master
+   16  ls
+   17  npm test
+   18  cd..
+   19  cd.
+   20  cd-
+   21  cd ..
+   22  cd cli-assessment-master
+   23  ~
+   24  brew install tree
+   25  tree ~
+   26  tree -L 1 ~
+   27  cd /
+   28  $ cd ~/Library/Spelling/~
+   29  ~
+   30  cd /Documents/galvanize/
+   31  cd ~/Documents/galvanize/
+   32  cd ~/Projects/week01/
+   33  cd Projects
+   34  cd week01
+   35  mkdir week01
+   36  cd week01
+   37  mkdir notebook
+   38  ls
+   39  cd notebook
+   40  touch notes.txt
+   41  ls notes.txt
+   42  cat notes.txt
+   43  rm notes.txt
+   44  history
+   45  history > notes.txt
+   46  ls
+   47  cat notes.txt
+   48  less notes.txt
+   49  man command
+    1  $HOME
+    2  ~/.zshrc
+    3  ls
+    4  cd ~/.zshrc
+    5  open ~/.zshrc
+    6  exit
+    7  cd galvanaize/assessments
+    8  cd galvanize
+    9  cd assessments
+   10  pwd
+   11  cd ~/Documents
+   12  cd galvanize
+   13  cd assessments
+   14  ls
+   15  cd cli-assessment-master
+   16  ls
+   17  npm test
+   18  cd..
+   19  cd.
+   20  cd-
+   21  cd ..
+   22  cd cli-assessment-master
+   23  ~
+   24  brew install tree
+   25  tree ~
+   26  tree -L 1 ~
+   27  cd /
+   28  $ cd ~/Library/Spelling/~
+   29  ~
+   30  cd /Documents/galvanize/
+   31  cd ~/Documents/galvanize/
+   32  cd ~/Projects/week01/
+   33  cd Projects
+   34  cd week01
+   35  mkdir week01
+   36  cd week01
+   37  mkdir notebook
+   38  ls
+   39  cd notebook
+   40  touch notes.txt
+   41  ls notes.txt
+   42  cat notes.txt
+   43  rm notes.txt
+   44  history
+   45  history > notes.txt
+   46  ls
+   47  cat notes.txt
+   48  less notes.txt
+   49  man command
+   50  history > notes.txt
+   51  less notes.txt
